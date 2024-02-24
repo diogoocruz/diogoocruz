@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @diogoocruz
-- 🐍 I'm learning Python
+- 🐍 Python, AI and other stuff
 - ⭐I'm studying physics in FCUP
 
 <!---
