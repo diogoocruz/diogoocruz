@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @diogoocruz
-- 🐍 Python, R, AI and other stuff
-- ⭐ I have a Bsc in Physics by FCUP
-- 📊 I'm enrolled in the Computational Statistics and Data Analysis Master's program at FCUP
+### 👋 Hi, I’m @diogoocruz
+
+- 🎓 **Education:** BSc in Physics | MSc in Computational Statistics & Data Analysis (FCUP)
+- 🔭 **Current Focus:** PhD Student in Computer Science (AI, Generative Modeling & Decision-Making) at FCUP
+- 💻 **Tech Stack:** Python, R, C++, PyTorch, Linux / Bash
+- 🔬 **Research & Interests:** Time Series, Spatiotemporal Data, Climate & Geophysical AI, Latent Spaces, Clustering, Anomaly Detection, and Audio Processing
 
 <!---
 diogoocruz/diogoocruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
